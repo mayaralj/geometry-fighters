@@ -13,6 +13,7 @@ Geometry Fighters is a 2D fighting game where geometric shapes battle in local m
 
 ## Main Game Features & Mechanics
 - Regular attacks and combos
+- Jump and Double Jump
 - Aerial attacks
 - Crouch and crouch attacks
 - Evasive dodge mechanic
@@ -22,17 +23,15 @@ Geometry Fighters is a 2D fighting game where geometric shapes battle in local m
 - Round counter + best out of 3 gameplay loop
 
 ## Visuals
-- Menu Screen telling each player's keybinds
+- Menu Screen displaying corresponding player keybinds
 - Pixel Backgrounds randomized each round
 - Red and Blue rectangles representing each player
 - Visual Bars for Health and Evasives
 - Crouching slices rectangle in half
 
 ## How to Setup
-- Download Geometry Fighters folder included in this repository
-- Download the raylib installer inside the folder
-- Open core_basic_window provided in the folder
-- Alternatively open the code in notepad++ (should be downloaded from raylib installer) and press F6 to Run
+- Clone Repository
+- Run the executable: `core_basic_window.exe`
 
 ## Learning Experiences
 This was my first complete game project, presenting several new challenges:
