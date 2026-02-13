@@ -38,6 +38,9 @@ Visual Demo of Menu + Movement
 Visual Demo of some combat
 ![Geometry Fighters Gameplay](demogifs/gfgif2.gif)
 
+Visual Demo of win screen
+![Geometry Fighters Gameplay](demogifs/gfgif3.gif)
+
 
 ## How to Setup
 - Clone Repository
