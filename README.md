@@ -30,6 +30,8 @@ Geometry Fighters is a 2D fighting game where geometric shapes battle in local m
 - Visual Bars for Health and Evasives
 - Crouching slices rectangle in half
 
+
+## Visual Demos
 Visual Demo of Menu + Movement
 ![Geometry Fighters Gameplay](demogifs/gfgif1.gif)
 
