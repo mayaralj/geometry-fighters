@@ -22,12 +22,16 @@ Geometry Fighters is a 2D fighting game where geometric shapes battle in local m
 - Dashing
 - Round counter + best out of 3 gameplay loop
 
+
 ## Visuals
 - Menu Screen displaying corresponding player keybinds
 - Pixel Backgrounds randomized each round
 - Red and Blue rectangles representing each player
 - Visual Bars for Health and Evasives
 - Crouching slices rectangle in half
+
+![Geometry Fighters Gameplay](demogifs.gfgif1.gif)
+
 
 ## How to Setup
 - Clone Repository
