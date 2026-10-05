@@ -8,7 +8,7 @@ Geometry Fighters is a 2D fighting game where geometric shapes battle in local m
 > **Note:** This project was created in 2022 as my first complete game, representing an early look at my game development journey.
 
 ## Built With
-- C
+- C++
 - Raylib
 
 ## Main Game Features & Mechanics
