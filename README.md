@@ -7,6 +7,19 @@ Geometry Fighters is a 2D fighting game where geometric shapes battle in local m
 
 > **Note:** This project was created in 2022 as my first complete game, representing an early look at my game development journey.
 
+## Gameplay Demos
+Visual Demo of Menu + Movement
+
+![Geometry Fighters Gameplay](demogifs/gfgif1.gif)
+
+Visual Demo of some combat
+
+![Geometry Fighters Gameplay](demogifs/gfgif2.gif)
+
+Visual Demo of win screen
+
+![Geometry Fighters Gameplay](demogifs/gfgif3.gif)
+
 ## Built With
 - C++
 - Raylib
@@ -29,17 +42,6 @@ Geometry Fighters is a 2D fighting game where geometric shapes battle in local m
 - Red and Blue rectangles representing each player
 - Visual Bars for Health and Evasives
 - Crouching slices rectangle in half
-
-
-## Visual Demos
-Visual Demo of Menu + Movement
-![Geometry Fighters Gameplay](demogifs/gfgif1.gif)
-
-Visual Demo of some combat
-![Geometry Fighters Gameplay](demogifs/gfgif2.gif)
-
-Visual Demo of win screen
-![Geometry Fighters Gameplay](demogifs/gfgif3.gif)
 
 
 ## How to Setup
